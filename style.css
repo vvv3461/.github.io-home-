@@ -1,0 +1,313 @@
+* {
+	padding: 0;
+	margin: 0;
+	word-break: keep-all;
+}
+
+ul {
+	width: 50px;
+	height: 50px;
+}
+
+body {
+	background-image: url(img/back.png);
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100vh;
+}
+
+section {
+	padding: 150px;
+}
+
+
+
+
+
+.yu_back {
+	padding: 10px;
+	position: relative;
+}
+
+.yu_6 {
+	position: absolute;
+	top: 140px;
+	left: 400px;
+	margin: 10px;
+}
+
+.yup6 {
+	font-size: 10px;
+	position: absolute;
+	top: 200px;
+	left: 400px;
+	background: white;
+	width: 160px;
+}
+
+.yu6 {
+	position: absolute;
+	top: 150px;
+	left: 90px;
+}
+
+.yup5 {
+	font-size: 10px;
+	position: absolute;
+	top: 50px;
+	left: 610px;
+	background: white;
+	width: 160px;
+}
+
+.yu_page5 {
+	position: relative;
+	top: -150px;
+	left: 200px;
+}
+
+.yu_5 {
+	position: absolute;
+	top: 0px;
+	left: 600px;
+	margin: 10px;
+}
+
+.yu5 {
+	position: absolute;
+	top: 0px;
+	left: 300px;
+}
+
+.yup7 {
+	font-size: 10px;
+	position: absolute;
+	top: -800px;
+	left: 670px;
+	background: white;
+	width: 160px;
+}
+
+.yu_page7 {
+	position: relative;
+	top: -1100px;
+	left: 600px;
+}
+
+.yu_7 {
+	position: absolute;
+	top: -1060px;
+	left: 800px;
+	margin: 10px;
+}
+
+.yu7{
+	position: absolute;
+	top: -1000px;
+	left: 665px;
+}
+
+
+
+
+
+.ty_1 {
+	position: absolute;
+	top: 140px;
+	left: 300px;
+	margin: 10px;
+}
+
+.typ1 {
+	font-size: 13px;
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	background: white;
+	width: 250px;
+}
+
+.ty1 {
+	position: absolute;
+	top: 150px;
+	left: 90px;
+}
+
+.typ2 {
+	font-size: 13px;
+	position: absolute;
+	top: 700px;
+	left: 480px;
+	background: white;
+	width: 250px;
+}
+
+.ty_page2 {
+	position: relative;
+	top: -150px;
+	left: 200px;
+}
+
+.ty_2 {
+	position: absolute;
+	top: 630px;
+	left: 480px;
+	margin: 10px;
+}
+
+.ty2 {
+	position: absolute;
+	top: 540px;
+	left: 280px;
+}
+
+
+.typ4 {
+	font-size: 13px;
+	position: absolute;
+	top: 130px;
+	left: 670px;
+	background: white;
+	width: 190px;
+}
+
+.ty_page4 {
+	position: relative;
+	top: -1100px;
+	left: 600px;
+}
+
+.ty_4 {
+	position: absolute;
+	top: 80px;
+	left: 660px;
+	margin: 10px;
+}
+
+.ty4{
+	position: absolute;
+	top: 300px;
+	left: 655px;
+}
+
+.typ3 {
+	font-size: 13px;
+	position: absolute;
+	top: 810px;
+	left: 940px;
+	background: white;
+	width: 300px;
+}
+
+.ty_page3 {
+	position: relative;
+	top: -1100px;
+	left: 700px;
+}
+
+.ty_3 {
+	position: absolute;
+	top: 900px;
+	left: 1150px;
+	margin: 10px;
+}
+
+.ty3{
+	position: absolute;
+	top: 670px;
+	left: 780px;
+}
+
+.typ10 {
+	font-size: 13px;
+	position: absolute;
+	top: 300px;
+	left: 1060px;
+	background: white;
+	width: 260px;
+}
+
+.ty_page10 {
+	position: absolute;
+	top: 160px;
+	left: 1000px;
+}
+
+.ty_10 {
+	position: absolute;
+	top: 200px;
+	left: 1210px;
+	margin: 10px;
+}
+
+.ty10{
+	position: absolute;
+	top: 450px;
+	left: 1055px;
+}
+
+.typ9 {
+	font-size: 13px;
+	position: absolute;
+	top: 830px;
+	left: 70px;
+	background: white;
+	width: 250px;
+}
+
+.ty_page9 {
+	position: absolute;
+	top: 550px;
+	left: 10px;
+}
+
+.ty_9 {
+	position: absolute;
+	top: 780px;
+	left: 60px;
+	margin: 10px;
+}
+
+.ty9 {
+	position: absolute;
+	top: 580px;
+	left: 65px;
+}
+
+.typ8 {
+	font-size: 13px;
+	position: absolute;
+	top: 920px;
+	left: 440px;
+	background: white;
+	width: 250px;
+}
+
+.ty_page8 {
+	position: absolute;
+	top: 750px;
+	left: 360px;
+}
+
+.ty_8 {
+	position: absolute;
+	top: 865px;
+	left: 630px;
+	margin: 10px;
+}
+
+.ty8 {
+	position: absolute;
+	top: 865px;
+	left: 740px;
+}
+
+
+
+
+.ctrlW {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	padding: 10px;
+}
